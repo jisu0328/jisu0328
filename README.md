@@ -8,7 +8,8 @@
 
 Hi, there ! <br>
 I'm Shin jisu, a master candidate of the Industrial System Engineering. <br>
-I'm interested in Responsible AI and AI safety to develop safer and more ethical LLMs. I also interested in diffusion models to address complex challenges in real-world :) <br>
+I'm interested in Responsible AI and AI safety to develop safer and more ethical LLMs. <br>
+I also interested in diffusion models to address complex challenges in real-world :) <br>
 
 Welcome to my github 💕
 </div>
