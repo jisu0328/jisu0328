@@ -8,7 +8,7 @@
 
 Hi, there ! <br>
 I'm Shin jisu, a master candidates of the Industrial System Engineering. <br>
-I'm interested in generative models :) <br>
+I'm interested in generative models and Responsible AI :) <br>
 
 Welcome to my github 💕
 </div>
