@@ -2,8 +2,6 @@
 
 ## Hello, I'm Shin jisu 👋
 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=jisu0328)](https://github.com/jisu0328)
-
 ![jisu-image](https://github.com/jisu0328/jisu0328/assets/165359940/e7e8936f-678d-4956-be80-66bdda405019)
 
 Hi, there! <br>
